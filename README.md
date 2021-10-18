@@ -1,4 +1,5 @@
 # liveasy
+flutter firebase phone (OTP) authentication implementation example in dart language.
 
 A new Flutter project.
 
