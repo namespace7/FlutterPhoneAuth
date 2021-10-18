@@ -2,6 +2,9 @@
 flutter firebase phone (OTP) authentication implementation example in dart language.
 
 A new Flutter project.
+![](<https://user-images.githubusercontent.com/29954682/137717827-bd6b9dd1-9181-46b4-ba9e-95836136a902.png>)
+
+
 
 ## Getting Started
 
