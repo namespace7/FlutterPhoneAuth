@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "164516448380",
+    "project_id": "phone-verification-12d48",
+    "storage_bucket": "phone-verification-12d48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164516448380:android:32dd2814b8d83c16fc61f9",
+        "android_client_info": {
+          "package_name": "com.example.liveasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164516448380-qesvka5o368b1k2jardrk3ckhdfacdjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.liveasy",
+            "certificate_hash": "17699ab779d25f42b92af6ce32d9cf62bc85513b"
+          }
+        },
+        {
+          "client_id": "164516448380-4vnqc73d6bfmm07hsdqo161n5ru1b7m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRw11Bzvupr8x_tSF9y4NnEUORGW29lGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164516448380-4vnqc73d6bfmm07hsdqo161n5ru1b7m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
